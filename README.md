@@ -4,24 +4,15 @@ Class repository for the Ironhack Berlin Data Analytics Full Time class starting
 
 ## Table of Contents
 
-1. [Lecture Notes](#ln)
-  * [Week 1](#ln_u1)
-2. [Lab Solutions](#ls)
-  * [Week 1](#ls_u1)
+1. [Lecture Notes and material for activities](https://github.com/n1oftheabove/BER-DAFT-JAN21/tree/main/Lessons) 
 
-## 1. Lecture Notes <a name="ln"></a>
+    -Inside the lessons folders you could fine the files needed for the activities and the labs in the folder called files_for_lesson_and_activities
+2. [Lab Solutions](https://github.com/n1oftheabove/BER-DAFT-JAN21/tree/main/Labs/Solutions)
+3. [Activities Solutions](https://github.com/n1oftheabove/BER-DAFT-JAN21/tree/main/Activities)
+4. [Project Material](https://github.com/n1oftheabove/BER-DAFT-JAN21/tree/main/Projects)
+4. [Extra Material](https://github.com/n1oftheabove/BER-DAFT-JAN21/tree/main/data%20books) 
 
-### Unit 1 (Week 1) <a name="ln_u1"></a>
-
-| Day | Notes | Files |
-|--|--|--|
-| 1 | | |
-
-
-## 2. Lab Solutions <a name="ls"></a>
-
-### Unit 1 (Week 1) <a name="ln_u1"></a>
-
-| Day | Solution | Files |
-|--|--|--|
-| 1 | [1.01_lab_bash_solution](https://github.com/n1oftheabove/BER-DAFT-JAN21/tree/main/Labs/Solutions/unit_1/day_1/1.01_lab_bash_solution) | - |
+    -Here you can find books, links and extra lectures that you can go trough for examples and code exercises. 
+    
+    
+    
